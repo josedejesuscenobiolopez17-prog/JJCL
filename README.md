@@ -14,6 +14,5 @@
 ## Contenido del repositorio
 
 | Archivo | Descripción del reto |
-| :--- | :--- |
-| `RETO14.c` - `RETO14.c` | Ejercicios fundamentales de programación estructurada en lenguaje C con README incluido |
+| `RETO11.c` - `RETO14.c` | Ejercicios fundamentales de programación estructurada en lenguaje C con README incluido |
 | `RETO14.c` | **Uso de arreglos de estructuras con apuntadores:**  |

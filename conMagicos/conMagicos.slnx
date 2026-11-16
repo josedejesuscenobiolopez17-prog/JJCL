@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="conMagicos.vcxproj" Id="77955eac-369a-4e04-aeb8-c32a8ca270d0" />
+</Solution>

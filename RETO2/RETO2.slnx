@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="RETO2.vcxproj" Id="b6d77521-5c90-4655-8823-336cf856f13d" />
+</Solution>

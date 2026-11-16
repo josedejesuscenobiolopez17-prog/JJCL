@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="arduino.vcxproj" Id="6f30b8ff-f961-4ffb-af30-e269fb2135a8" />
+</Solution>

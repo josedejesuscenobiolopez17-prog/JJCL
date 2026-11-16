@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ConREgistro.vcxproj" Id="740af506-66c0-449c-8979-e0f66b518180" />
+</Solution>

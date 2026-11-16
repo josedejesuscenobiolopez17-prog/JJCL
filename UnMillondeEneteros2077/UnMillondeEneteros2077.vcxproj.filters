@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="UnMillondeEneteros2077.c">
+    <ClCompile Include="UnMillondeEneteros2077.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
